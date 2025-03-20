@@ -4,7 +4,7 @@ Privacy Policy for Quiz Bowl Scoreboard
 Effective Date: 3/20/2025
 
 1. Introduction
-[App Name] (“we,” “us,” or “our”) respects your privacy. This Privacy Policy explains how we handle any data collected while you use our app.
+Quiz Bowl Scoreboard (“we,” “us,” or “our”) respects your privacy. This Privacy Policy explains how we handle any data collected while you use our app.
 
 2. Information We Collect
 
